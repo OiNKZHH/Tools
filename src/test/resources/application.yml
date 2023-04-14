@@ -1,0 +1,6 @@
+spring:
+  threadPool:
+    corePoolSize: 5
+    maxPoolSize: 5
+    queueCapacity: 2
+    keepAliveSeconds: 2
